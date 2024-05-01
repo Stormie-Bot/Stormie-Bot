@@ -8,7 +8,7 @@
 <b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D
 </div>
 
-<h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer<br /></h3>
+<h3 align="center">💻 Visit <a href="https://stormsoftware.com" target="_blank">stormsoftware.org</a> to stay up to date with this developer<br /></h3>
 
 ### Hi there 👋
 
